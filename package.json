@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/team-proj-demo-vite/",
+    "build": "vite build --base=/team-proj-demo-vite-MrForestino/",
     "preview": "vite preview"
   },
   "devDependencies": {
